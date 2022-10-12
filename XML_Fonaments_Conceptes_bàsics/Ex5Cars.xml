@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<workshop_cars>
+    <car>
+        <brand></brand>
+        <model></model>
+        <entry_date></entry_date>
+        <job></job> <!--Aquí es podría fer la referència?-->
+    </car>
+</workshop_cars>

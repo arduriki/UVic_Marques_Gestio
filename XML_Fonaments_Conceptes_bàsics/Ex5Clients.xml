@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<work_shop_clients>
+    <client>
+        <name></name>
+        <surname></surname>
+        <ID_client category="DNI"></ID_client>
+        <phone_number></phone_number>
+        <email></email>
+        <home_address></home_address>
+    </client>
+    <client>
+        <name></name>
+        <surname></surname>
+        <ID_client category="DNI"></ID_client>
+        <phone_number></phone_number>
+        <email></email>
+        <home_address></home_address>
+    </client>
+</work_shop_clients>

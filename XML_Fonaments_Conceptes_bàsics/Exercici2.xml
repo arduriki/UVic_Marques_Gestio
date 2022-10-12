@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<contacts>
+    <contact><!--es pot duplicar perquè no hi ha text dintre-->
+        <name>Jordi</name>
+        <surname>Freixas</surname>
+        <phone_number>938812345</phone_number>
+    </contact>
+    <contact>
+        <name>Marc</name>
+        <surname>Sánchez</surname>
+        <phone_number>918880220</phone_number>
+    </contact>
+    <contact>
+        <name>Steve</name>
+        <surname>Jobs</surname>
+        <phone_number>+1-202-555-0179</phone_number>
+    </contact>
+    <contact>
+        <name>Anna Maria</name>
+        <surname>Roma</surname>
+        <phone_number>699334376</phone_number>
+    </contact>
+    <contact>
+        <name>Lionel</name>
+        <surname>Messi</surname>
+        <phone_number>678101010</phone_number>
+    </contact>
+</contacts>

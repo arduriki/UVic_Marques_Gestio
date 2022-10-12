@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<weather_status>
+    <location>
+        <city>Vic</city>
+        <province>Barcelona</province>
+        <contry code="ES">Spain</contry>
+    </location>
+    <data>
+        <temperature units="C">14.7</temperature>
+        <humidity untis="%">91</humidity>
+        <pressure units="hPa">1010.7</pressure>
+    </data>
+</weather_status>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<workshop_workers>
+    <worker>
+        <name></name>
+        <surname></surname>
+        <id_worker></id_worker>
+        <start></start> <!-- incorporació-->
+    </worker>
+    <job>
+        <task></task>
+        <task></task>
+        <task></task>
+    </job>
+</workshop_workers>

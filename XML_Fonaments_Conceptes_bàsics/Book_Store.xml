@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bookStore> <!-- té elements dintre com a contingut-->
+    <book category="CHILDREN"> <!-- té un atribut que és children pdf 01 p. 11-->
+        <title>Harry Potter</title> <!-- text com a contingut-->
+        <author>J K. Rowling</author>
+        <year>2005</year>
+        <price>29.99</price>
+    </book>
+    <book category="WEB">
+        <title>Learning XML</title>
+        <author>Erik T. Ray</author>
+        <year>2003</year>
+        <price>39.95</price>
+    </book>
+</bookStore>
